@@ -1,0 +1,509 @@
+customer_id,customer_name,email,state,city,signup_date
+C00001,Cliente 00001,cliente00001@example.com,RJ,Rio de Janeiro,2024-10-08
+C00002,Cliente 00002,cliente00002@example.com,PR,Curitiba,2024-05-22
+C00003,Cliente 00003,cliente00003@example.com,RJ,Petrópolis,2025-07-12
+C00004,Cliente 00004,cliente00004@example.com,RJ,Petrópolis,2025-03-08
+C00005,Cliente 00005,cliente00005@example.com,SP,São Paulo,2024-04-05
+C00006,Cliente 00006,cliente00006@example.com,PR,Curitiba,2025-06-01
+C00007,Cliente 00007,cliente00007@example.com,DF,Brasília,2025-07-28
+C00008,Cliente 00008,cliente00008@example.com,PR,Maringá,2025-10-27
+C00009,Cliente 00009,cliente00009@example.com,GO,Anápolis,2024-08-13
+C00010,Cliente 00010,cliente00010@example.com,PE,Olinda,2024-01-07
+C00011,Cliente 00011,cliente00011@example.com,MG,Juiz de Fora,2025-03-08
+C00012,Cliente 00012,cliente00012@example.com,RS,Caxias do Sul,2024-06-08
+C00013,Cliente 00013,cliente00013@example.com,,Londrina,2024-04-14
+C00014,Cliente 00014,cliente00014@example.com,RJ,Niterói,2024-04-09
+C00015,Cliente 00015,cliente00015@example.com,RS,Caxias do Sul,2025-09-10
+C00016,Cliente 00016,cliente00016@example.com,SC,Florianópolis,2025-04-15
+C00017,Cliente 00017,cliente00017@example.com,GO,Goiânia,2025-01-22
+C00018,Cliente 00018,cliente00018@example.com,RJ,Petrópolis,2024-10-27
+C00019,Cliente 00019,cliente00019@example.com,DF,Brasília,2025-08-14
+C00020,Cliente 00020,cliente00020@example.com,PR,Maringá,2024-03-12
+C00021,Cliente 00021,cliente00021@example.com,SP,Campinas,2024-10-23
+C00022,Cliente 00022,cliente00022@example.com,RJ,Rio de Janeiro,2024-04-13
+C00023,Cliente 00023,,BA,Feira de Santana,2025-04-09
+C00024,Cliente 00024,cliente00024@example.com,RS,Porto Alegre,2025-01-14
+C00025,Cliente 00025,cliente00025@example.com,RS,Porto Alegre,2025-11-17
+C00026,Cliente 00026,cliente00026@example.com,SC,Blumenau,2025-11-30
+C00027,Cliente 00027,cliente00027@example.com,RJ,Petrópolis,2025-10-12
+C00028,Cliente 00028,cliente00028@example.com,MG,Juiz de Fora,2024-09-07
+C00029,Cliente 00029,cliente00029@example.com,MG,Uberlândia,2025-01-23
+C00030,Cliente 00030,cliente00030@example.com,SC,Blumenau,2025-07-24
+C00031,Cliente 00031,cliente00031@example.com,PR,Maringá,2024-11-28
+C00032,Cliente 00032,cliente00032@example.com,SP,Campinas,2024-02-02
+C00033,Cliente 00033,cliente00033@example.com,RS,Caxias do Sul,2024-10-01
+C00034,Cliente 00034,cliente00034@example.com,RJ,Rio de Janeiro,2025-08-03
+C00035,Cliente 00035,cliente00035@example.com,RS,Porto Alegre,2025-11-02
+C00036,Cliente 00036,cliente00036@example.com,PE,Olinda,2025-10-20
+C00037,Cliente 00037,cliente00037@example.com,PE,Recife,2024-09-28
+C00038,Cliente 00038,cliente00038@example.com,MG,Belo Horizonte,2025-07-28
+C00039,Cliente 00039,cliente00039@example.com,GO,Anápolis,2025-08-21
+C00040,Cliente 00040,cliente00040@example.com,BA,Feira de Santana,2025-01-05
+C00041,Cliente 00041,cliente00041@example.com,PR,Curitiba,2025-06-05
+C00042,Cliente 00042,cliente00042@example.com,PE,Recife,2024-02-18
+C00043,Cliente 00043,cliente00043@example.com,RJ,Rio de Janeiro,2025-10-04
+C00044,Cliente 00044,cliente00044@example.com,MG,Juiz de Fora,2025-03-08
+C00045,Cliente 00045,cliente00045@example.com,DF,Brasília,2025-01-29
+C00046,Cliente 00046,cliente00046@example.com,BA,Feira de Santana,2025-06-25
+C00047,Cliente 00047,cliente00047@example.com,SC,Blumenau,2024-01-12
+C00048,Cliente 00048,cliente00048@example.com,RJ,Petrópolis,2025-07-03
+C00049,Cliente 00049,cliente00049@example.com,SC,Blumenau,2024-12-14
+C00050,Cliente 00050,cliente00050@example.com,RJ,Niterói,2025-03-21
+C00051,Cliente 00051,cliente00051@example.com,MG,Uberlândia,2024-01-04
+C00052,Cliente 00052,cliente00052@example.com,SC,Blumenau,2024-07-01
+C00053,Cliente 00053,cliente00053@example.com,GO,Goiânia,2025-10-02
+C00054,Cliente 00054,cliente00054@example.com,SC,Blumenau,2025-06-03
+C00055,Cliente 00055,cliente00055@example.com,DF,Brasília,2024-06-05
+C00056,Cliente 00056,cliente00056@example.com,,Porto Alegre,2025-07-06
+C00057,Cliente 00057,cliente00057@example.com,GO,Goiânia,2025-09-05
+C00058,Cliente 00058,cliente00058@example.com,RS,Caxias do Sul,2024-01-20
+C00059,Cliente 00059,cliente00059@example.com,RJ,Niterói,2024-11-10
+C00060,Cliente 00060,cliente00060@example.com,PR,Curitiba,2024-09-03
+C00061,Cliente 00061,cliente00061@example.com,DF,Brasília,2024-03-28
+C00062,Cliente 00062,cliente00062@example.com,PE,Recife,2025-06-29
+C00063,Cliente 00063,cliente00063@example.com,MG,Belo Horizonte,2025-11-06
+C00064,Cliente 00064,cliente00064@example.com,PE,Recife,2024-09-28
+C00065,Cliente 00065,cliente00065@example.com,GO,Anápolis,2024-08-04
+C00066,Cliente 00066,cliente00066@example.com,GO,Goiânia,2024-11-15
+C00067,Cliente 00067,cliente00067@example.com,BA,Feira de Santana,2025-03-24
+C00068,Cliente 00068,cliente00068@example.com,GO,Anápolis,2024-05-03
+C00069,Cliente 00069,cliente00069@example.com,PR,Curitiba,2024-03-06
+C00070,Cliente 00070,cliente00070@example.com,RS,Porto Alegre,2025-08-25
+C00071,Cliente 00071,cliente00071@example.com,GO,Goiânia,2025-08-25
+C00072,Cliente 00072,cliente00072@example.com,PR,Curitiba,2024-03-13
+C00073,Cliente 00073,cliente00073@example.com,SP,Campinas,2024-03-10
+C00074,Cliente 00074,cliente00074@example.com,SP,Santos,2024-03-13
+C00075,Cliente 00075,cliente00075@example.com,GO,Goiânia,2024-10-12
+C00076,Cliente 00076,cliente00076@example.com,PE,Recife,2025-07-06
+C00077,Cliente 00077,cliente00077@example.com,MG,Juiz de Fora,2025-08-07
+C00078,Cliente 00078,cliente00078@example.com,DF,Brasília,2024-09-05
+C00079,Cliente 00079,cliente00079@example.com,PE,Olinda,2024-07-13
+C00080,Cliente 00080,cliente00080@example.com,RJ,Rio de Janeiro,2025-11-05
+C00081,Cliente 00081,cliente00081@example.com,BA,Feira de Santana,2025-03-09
+C00082,Cliente 00082,cliente00082@example.com,BA,Feira de Santana,2024-02-25
+C00083,Cliente 00083,cliente00083@example.com,RJ,Rio de Janeiro,2025-02-16
+C00084,Cliente 00084,cliente00084@example.com,RS,Porto Alegre,2024-09-11
+C00085,Cliente 00085,cliente00085@example.com,PR,Curitiba,2025-07-03
+C00086,Cliente 00086,cliente00086@example.com,PE,Recife,2025-03-08
+C00087,Cliente 00087,cliente00087@example.com,MG,Uberlândia,2025-04-18
+C00088,Cliente 00088,cliente00088@example.com,PR,Curitiba,2025-03-29
+C00089,Cliente 00089,,GO,Goiânia,2024-02-21
+C00090,Cliente 00090,cliente00090@example.com,GO,Goiânia,2024-04-05
+C00091,Cliente 00091,cliente00091@example.com,PR,Curitiba,2025-02-20
+C00092,Cliente 00092,cliente00092@example.com,PE,Olinda,2024-08-06
+C00093,Cliente 00093,cliente00093@example.com,BA,Salvador,2024-06-17
+C00094,Cliente 00094,cliente00094@example.com,BA,Salvador,2025-02-03
+C00095,Cliente 00095,cliente00095@example.com,SC,Joinville,2024-10-19
+C00096,Cliente 00096,cliente00096@example.com,BA,Feira de Santana,2024-06-07
+C00097,Cliente 00097,cliente00097@example.com,PR,Londrina,2024-08-10
+C00098,Cliente 00098,cliente00098@example.com,SP,São Paulo,2024-11-17
+C00099,Cliente 00099,cliente00099@example.com,SP,São Paulo,2025-08-21
+C00100,Cliente 00100,cliente00100@example.com,PE,Recife,2024-02-28
+C00101,Cliente 00101,cliente00101@example.com,GO,Goiânia,2024-07-09
+C00102,Cliente 00102,cliente00102@example.com,RJ,Petrópolis,2024-03-10
+C00103,Cliente 00103,cliente00103@example.com,PR,Londrina,2024-05-02
+C00104,Cliente 00104,cliente00104@example.com,DF,Brasília,2025-08-15
+C00105,Cliente 00105,cliente00105@example.com,DF,Brasília,2025-09-26
+C00106,Cliente 00106,cliente00106@example.com,RJ,Niterói,2025-11-04
+C00107,Cliente 00107,cliente00107@example.com,DF,Brasília,2024-09-24
+C00108,Cliente 00108,cliente00108@example.com,PR,Maringá,2024-11-17
+C00109,Cliente 00109,cliente00109@example.com,PR,Londrina,2025-02-09
+C00110,Cliente 00110,cliente00110@example.com,MG,Juiz de Fora,2025-10-22
+C00111,Cliente 00111,cliente00111@example.com,SC,Joinville,2024-11-19
+C00112,Cliente 00112,cliente00112@example.com,RJ,Rio de Janeiro,2025-04-14
+C00113,Cliente 00113,cliente00113@example.com,DF,Brasília,2024-03-16
+C00114,Cliente 00114,cliente00114@example.com,GO,Goiânia,2025-06-02
+C00115,Cliente 00115,cliente00115@example.com,SC,Florianópolis,2024-12-23
+C00116,Cliente 00116,cliente00116@example.com,RJ,Rio de Janeiro,2025-01-13
+C00117,Cliente 00117,cliente00117@example.com,SC,Florianópolis,2025-03-24
+C00118,Cliente 00118,cliente00118@example.com,GO,Anápolis,2025-09-18
+C00119,Cliente 00119,cliente00119@example.com,GO,Goiânia,2025-11-14
+C00120,Cliente 00120,cliente00120@example.com,GO,Anápolis,2025-11-10
+C00121,Cliente 00121,cliente00121@example.com,RJ,Rio de Janeiro,2024-09-27
+C00122,Cliente 00122,cliente00122@example.com,RJ,Rio de Janeiro,2025-07-20
+C00123,Cliente 00123,cliente00123@example.com,MG,Uberlândia,2024-10-15
+C00124,Cliente 00124,cliente00124@example.com,DF,Brasília,2024-12-17
+C00125,Cliente 00125,cliente00125@example.com,PR,Maringá,2025-10-11
+C00126,Cliente 00126,cliente00126@example.com,SC,Blumenau,2025-05-15
+C00127,Cliente 00127,cliente00127@example.com,SC,Florianópolis,2024-04-04
+C00128,Cliente 00128,cliente00128@example.com,BA,Feira de Santana,2024-02-15
+C00129,Cliente 00129,cliente00129@example.com,SP,Santos,2024-05-13
+C00130,Cliente 00130,cliente00130@example.com,SC,Florianópolis,2025-03-28
+C00131,Cliente 00131,cliente00131@example.com,,Anápolis,2025-07-28
+C00132,Cliente 00132,cliente00132@example.com,SP,São Paulo,2024-03-18
+C00133,Cliente 00133,cliente00133@example.com,MG,Juiz de Fora,2024-02-06
+C00134,Cliente 00134,cliente00134@example.com,RS,Pelotas,2025-07-19
+C00135,Cliente 00135,cliente00135@example.com,MG,Uberlândia,2024-05-10
+C00136,Cliente 00136,cliente00136@example.com,SP,Santos,2025-01-08
+C00137,Cliente 00137,cliente00137@example.com,SP,Santos,2024-08-03
+C00138,Cliente 00138,cliente00138@example.com,PR,Maringá,2024-04-15
+C00139,Cliente 00139,cliente00139@example.com,RS,Pelotas,2025-02-20
+C00140,Cliente 00140,cliente00140@example.com,DF,Brasília,2024-08-30
+C00141,Cliente 00141,cliente00141@example.com,MG,Belo Horizonte,2025-02-26
+C00142,Cliente 00142,cliente00142@example.com,SP,Campinas,2024-12-06
+C00143,Cliente 00143,cliente00143@example.com,BA,Salvador,2024-09-30
+C00144,Cliente 00144,cliente00144@example.com,MG,Juiz de Fora,2024-04-20
+C00145,Cliente 00145,cliente00145@example.com,BA,Salvador,2025-04-26
+C00146,Cliente 00146,cliente00146@example.com,PR,Curitiba,2025-04-16
+C00147,Cliente 00147,cliente00147@example.com,RS,Caxias do Sul,2024-08-21
+C00148,Cliente 00148,cliente00148@example.com,PR,Curitiba,2025-11-06
+C00149,Cliente 00149,cliente00149@example.com,PR,Londrina,2024-12-02
+C00150,Cliente 00150,cliente00150@example.com,SC,Florianópolis,2024-10-12
+C00151,Cliente 00151,cliente00151@example.com,RS,Pelotas,2025-06-05
+C00152,Cliente 00152,cliente00152@example.com,BA,Feira de Santana,2024-01-29
+C00153,Cliente 00153,cliente00153@example.com,RJ,Niterói,2024-07-01
+C00154,Cliente 00154,cliente00154@example.com,DF,Brasília,2024-02-09
+C00155,Cliente 00155,cliente00155@example.com,RJ,Petrópolis,2025-03-20
+C00156,Cliente 00156,cliente00156@example.com,RS,Pelotas,2024-11-17
+C00157,Cliente 00157,cliente00157@example.com,BA,Salvador,2025-01-29
+C00158,Cliente 00158,cliente00158@example.com,DF,Brasília,2024-09-17
+C00159,Cliente 00159,cliente00159@example.com,SP,Sorocaba,2024-01-02
+C00160,Cliente 00160,cliente00160@example.com,GO,Goiânia,2025-01-07
+C00161,Cliente 00161,cliente00161@example.com,BA,Salvador,2025-11-11
+C00162,Cliente 00162,cliente00162@example.com,RS,Pelotas,2024-11-17
+C00163,Cliente 00163,cliente00163@example.com,RJ,Petrópolis,2024-11-03
+C00164,Cliente 00164,cliente00164@example.com,GO,Anápolis,2025-11-13
+C00165,Cliente 00165,cliente00165@example.com,BA,Feira de Santana,2025-02-16
+C00166,Cliente 00166,cliente00166@example.com,SC,Blumenau,2024-05-10
+C00167,Cliente 00167,cliente00167@example.com,PR,Londrina,2025-11-11
+C00168,Cliente 00168,cliente00168@example.com,BA,Salvador,2025-09-22
+C00169,Cliente 00169,cliente00169@example.com,DF,Brasília,2025-02-19
+C00170,Cliente 00170,cliente00170@example.com,GO,Goiânia,2024-11-07
+C00171,Cliente 00171,cliente00171@example.com,SC,Florianópolis,2025-03-16
+C00172,Cliente 00172,cliente00172@example.com,DF,Brasília,2025-04-21
+C00173,Cliente 00173,cliente00173@example.com,PE,Olinda,2025-11-22
+C00174,Cliente 00174,cliente00174@example.com,PR,Maringá,2025-04-29
+C00175,Cliente 00175,cliente00175@example.com,MG,Juiz de Fora,2024-03-27
+C00176,Cliente 00176,cliente00176@example.com,SC,Blumenau,2025-11-10
+C00177,Cliente 00177,cliente00177@example.com,DF,Brasília,2024-04-05
+C00178,Cliente 00178,cliente00178@example.com,PR,Maringá,2024-11-13
+C00179,Cliente 00179,cliente00179@example.com,PR,Curitiba,2024-05-30
+C00180,Cliente 00180,cliente00180@example.com,SP,São Paulo,2024-09-07
+C00181,Cliente 00181,cliente00181@example.com,PE,Recife,2025-04-11
+C00182,Cliente 00182,cliente00182@example.com,BA,Salvador,2025-01-28
+C00183,Cliente 00183,cliente00183@example.com,PE,Olinda,2024-09-06
+C00184,Cliente 00184,cliente00184@example.com,MG,Juiz de Fora,2024-01-06
+C00185,Cliente 00185,cliente00185@example.com,RJ,Niterói,2024-08-12
+C00186,Cliente 00186,cliente00186@example.com,MG,Juiz de Fora,2025-06-14
+C00187,Cliente 00187,cliente00187@example.com,PE,Recife,2025-07-24
+C00188,Cliente 00188,cliente00188@example.com,PR,Curitiba,2025-04-12
+C00189,Cliente 00189,cliente00189@example.com,MG,Uberlândia,2025-11-14
+C00190,Cliente 00190,cliente00190@example.com,GO,Anápolis,2025-03-29
+C00191,Cliente 00191,cliente00191@example.com,DF,Brasília,2025-07-15
+C00192,Cliente 00192,cliente00192@example.com,PE,Recife,2025-05-01
+C00193,Cliente 00193,cliente00193@example.com,PE,Olinda,2024-09-10
+C00194,Cliente 00194,cliente00194@example.com,SC,Blumenau,2025-05-11
+C00195,Cliente 00195,cliente00195@example.com,PR,Londrina,2025-03-26
+C00196,Cliente 00196,cliente00196@example.com,RJ,Petrópolis,2024-10-19
+C00197,Cliente 00197,cliente00197@example.com,PR,Londrina,2024-12-09
+C00198,Cliente 00198,cliente00198@example.com,RS,Pelotas,2024-03-23
+C00199,Cliente 00199,cliente00199@example.com,MG,Belo Horizonte,2024-08-24
+C00200,Cliente 00200,cliente00200@example.com,BA,Salvador,2024-08-07
+C00201,Cliente 00201,cliente00201@example.com,RJ,Niterói,2025-02-21
+C00202,Cliente 00202,cliente00202@example.com,RS,Pelotas,2025-04-22
+C00203,Cliente 00203,cliente00203@example.com,BA,Salvador,2024-07-30
+C00204,Cliente 00204,cliente00204@example.com,BA,Feira de Santana,2025-08-21
+C00205,Cliente 00205,cliente00205@example.com,SP,Sorocaba,2025-05-03
+C00206,Cliente 00206,cliente00206@example.com,SP,Santos,2024-11-01
+C00207,Cliente 00207,cliente00207@example.com,BA,Feira de Santana,2025-07-05
+C00208,Cliente 00208,cliente00208@example.com,GO,Goiânia,2025-05-14
+C00209,Cliente 00209,cliente00209@example.com,PR,Londrina,2025-03-22
+C00210,Cliente 00210,cliente00210@example.com,PE,Recife,2025-02-02
+C00211,Cliente 00211,cliente00211@example.com,RS,Pelotas,2025-11-26
+C00212,Cliente 00212,cliente00212@example.com,BA,Salvador,2025-04-23
+C00213,Cliente 00213,cliente00213@example.com,MG,Juiz de Fora,2025-06-30
+C00214,Cliente 00214,cliente00214@example.com,SP,Sorocaba,2025-08-29
+C00215,Cliente 00215,cliente00215@example.com,DF,Brasília,2024-03-26
+C00216,Cliente 00216,cliente00216@example.com,BA,Salvador,2025-04-17
+C00217,Cliente 00217,cliente00217@example.com,MG,Belo Horizonte,2024-09-23
+C00218,Cliente 00218,cliente00218@example.com,BA,Feira de Santana,2024-08-04
+C00219,Cliente 00219,cliente00219@example.com,PE,Olinda,2024-12-11
+C00220,Cliente 00220,cliente00220@example.com,BA,Feira de Santana,2025-03-07
+C00221,Cliente 00221,cliente00221@example.com,SC,Florianópolis,2025-04-26
+C00222,Cliente 00222,cliente00222@example.com,SP,São Paulo,2024-12-24
+C00223,Cliente 00223,cliente00223@example.com,PR,Maringá,2024-03-11
+C00224,Cliente 00224,cliente00224@example.com,SP,São Paulo,2024-09-10
+C00225,Cliente 00225,cliente00225@example.com,PR,Curitiba,2025-09-28
+C00226,Cliente 00226,cliente00226@example.com,MG,Belo Horizonte,2024-05-09
+C00227,Cliente 00227,cliente00227@example.com,PE,Recife,2025-07-31
+C00228,Cliente 00228,cliente00228@example.com,PR,Londrina,2024-09-19
+C00229,Cliente 00229,cliente00229@example.com,RS,Porto Alegre,2025-09-12
+C00230,Cliente 00230,cliente00230@example.com,DF,Brasília,2024-06-16
+C00231,Cliente 00231,cliente00231@example.com,SC,Florianópolis,2025-08-15
+C00232,Cliente 00232,cliente00232@example.com,SP,Santos,2025-08-12
+C00233,Cliente 00233,cliente00233@example.com,BA,Feira de Santana,2024-07-22
+C00234,Cliente 00234,cliente00234@example.com,RJ,Petrópolis,2025-10-04
+C00235,Cliente 00235,cliente00235@example.com,PR,Curitiba,2024-11-04
+C00236,Cliente 00236,cliente00236@example.com,DF,Brasília,2025-08-02
+C00237,Cliente 00237,cliente00237@example.com,SP,Santos,2025-06-29
+C00238,Cliente 00238,cliente00238@example.com,BA,Feira de Santana,2024-03-11
+C00239,Cliente 00239,cliente00239@example.com,GO,Anápolis,2024-01-13
+C00240,Cliente 00240,cliente00240@example.com,BA,Feira de Santana,2024-04-18
+C00241,Cliente 00241,cliente00241@example.com,BA,Feira de Santana,2025-10-12
+C00242,Cliente 00242,cliente00242@example.com,PE,Recife,2025-03-21
+C00243,Cliente 00243,cliente00243@example.com,MG,Juiz de Fora,2025-06-18
+C00244,Cliente 00244,cliente00244@example.com,SC,Blumenau,2025-07-05
+C00245,Cliente 00245,cliente00245@example.com,PE,Olinda,2025-03-22
+C00246,Cliente 00246,cliente00246@example.com,DF,Brasília,2024-11-26
+C00247,Cliente 00247,cliente00247@example.com,PR,Curitiba,2024-10-12
+C00248,Cliente 00248,cliente00248@example.com,PE,Recife,2025-04-20
+C00249,Cliente 00249,cliente00249@example.com,DF,Brasília,2024-12-10
+C00250,Cliente 00250,cliente00250@example.com,SP,Sorocaba,2024-11-28
+C00251,Cliente 00251,cliente00251@example.com,MG,Uberlândia,2024-08-05
+C00252,Cliente 00252,cliente00252@example.com,RS,Caxias do Sul,2024-12-14
+C00253,Cliente 00253,cliente00253@example.com,SC,Blumenau,2024-10-09
+C00254,Cliente 00254,cliente00254@example.com,GO,Goiânia,2025-06-13
+C00255,Cliente 00255,cliente00255@example.com,PR,Curitiba,2024-09-04
+C00256,Cliente 00256,cliente00256@example.com,BA,Feira de Santana,2025-07-22
+C00257,Cliente 00257,cliente00257@example.com,PR,Maringá,2025-05-02
+C00258,Cliente 00258,cliente00258@example.com,PE,Olinda,2024-01-18
+C00259,Cliente 00259,cliente00259@example.com,RJ,Niterói,2024-08-14
+C00260,Cliente 00260,cliente00260@example.com,BA,Salvador,2024-11-09
+C00261,Cliente 00261,cliente00261@example.com,DF,Brasília,2025-04-29
+C00262,Cliente 00262,cliente00262@example.com,GO,Anápolis,2025-03-11
+C00263,Cliente 00263,cliente00263@example.com,GO,Anápolis,2024-12-26
+C00264,Cliente 00264,cliente00264@example.com,PE,Olinda,2024-11-09
+C00265,Cliente 00265,cliente00265@example.com,SC,Florianópolis,2024-05-03
+C00266,Cliente 00266,cliente00266@example.com,PR,Londrina,2024-05-02
+C00267,Cliente 00267,cliente00267@example.com,GO,Goiânia,2024-07-15
+C00268,Cliente 00268,cliente00268@example.com,PR,Maringá,2025-05-10
+C00269,Cliente 00269,cliente00269@example.com,SC,Blumenau,2025-08-26
+C00270,Cliente 00270,cliente00270@example.com,GO,Anápolis,2024-04-12
+C00271,Cliente 00271,cliente00271@example.com,PR,Londrina,2024-08-20
+C00272,Cliente 00272,cliente00272@example.com,RS,Porto Alegre,2024-11-05
+C00273,Cliente 00273,cliente00273@example.com,SP,Campinas,2024-10-07
+C00274,Cliente 00274,cliente00274@example.com,SP,São Paulo,2025-07-20
+C00275,Cliente 00275,cliente00275@example.com,SC,Blumenau,2024-05-09
+C00276,Cliente 00276,cliente00276@example.com,PE,Recife,2024-01-13
+C00277,Cliente 00277,cliente00277@example.com,DF,Brasília,2025-04-25
+C00278,Cliente 00278,cliente00278@example.com,PE,Olinda,2024-12-14
+C00279,Cliente 00279,cliente00279@example.com,MG,Belo Horizonte,2024-09-15
+C00280,Cliente 00280,cliente00280@example.com,PE,Recife,2024-03-07
+C00281,Cliente 00281,cliente00281@example.com,BA,Feira de Santana,2024-03-16
+C00282,Cliente 00282,cliente00282@example.com,DF,Brasília,2024-06-04
+C00283,Cliente 00283,cliente00283@example.com,MG,Juiz de Fora,2024-11-07
+C00284,Cliente 00284,cliente00284@example.com,RJ,Rio de Janeiro,2024-05-01
+C00285,Cliente 00285,cliente00285@example.com,GO,Anápolis,2025-09-12
+C00286,Cliente 00286,cliente00286@example.com,DF,Brasília,2025-06-19
+C00287,Cliente 00287,cliente00287@example.com,BA,Feira de Santana,2025-03-29
+C00288,Cliente 00288,cliente00288@example.com,SC,Blumenau,2025-03-15
+C00289,Cliente 00289,cliente00289@example.com,SC,Blumenau,2025-09-27
+C00290,Cliente 00290,cliente00290@example.com,SP,São Paulo,2024-07-31
+C00291,Cliente 00291,cliente00291@example.com,PR,Londrina,2025-11-07
+C00292,Cliente 00292,cliente00292@example.com,RJ,Rio de Janeiro,2024-09-02
+C00293,Cliente 00293,cliente00293@example.com,MG,Juiz de Fora,2024-03-17
+C00294,Cliente 00294,cliente00294@example.com,MG,Belo Horizonte,2025-02-22
+C00295,Cliente 00295,cliente00295@example.com,PE,Olinda,2024-10-25
+C00296,Cliente 00296,cliente00296@example.com,SP,Campinas,2024-10-22
+C00297,Cliente 00297,cliente00297@example.com,SC,Blumenau,2025-04-09
+C00298,Cliente 00298,cliente00298@example.com,RJ,Petrópolis,2024-08-27
+C00299,Cliente 00299,cliente00299@example.com,SC,Blumenau,2025-08-26
+C00300,Cliente 00300,cliente00300@example.com,PR,Londrina,2024-04-27
+C00301,Cliente 00301,cliente00301@example.com,GO,Goiânia,2025-10-25
+C00302,Cliente 00302,cliente00302@example.com,MG,Uberlândia,2024-05-25
+C00303,Cliente 00303,cliente00303@example.com,RJ,Rio de Janeiro,2024-06-18
+C00304,Cliente 00304,cliente00304@example.com,SC,Blumenau,2025-08-05
+C00305,Cliente 00305,cliente00305@example.com,SC,Joinville,2024-05-07
+C00306,Cliente 00306,cliente00306@example.com,PE,Olinda,2025-02-16
+C00307,Cliente 00307,cliente00307@example.com,SC,Blumenau,2025-07-06
+C00308,Cliente 00308,cliente00308@example.com,PE,Olinda,2024-03-23
+C00309,Cliente 00309,cliente00309@example.com,DF,Brasília,2025-03-18
+C00310,Cliente 00310,cliente00310@example.com,RS,Pelotas,2024-09-13
+C00311,Cliente 00311,cliente00311@example.com,SP,São Paulo,2024-08-22
+C00312,Cliente 00312,cliente00312@example.com,DF,Brasília,2025-11-19
+C00313,Cliente 00313,cliente00313@example.com,SC,Blumenau,2024-02-11
+C00314,Cliente 00314,cliente00314@example.com,MG,Uberlândia,2025-06-15
+C00315,Cliente 00315,cliente00315@example.com,PE,Olinda,2024-07-04
+C00316,Cliente 00316,cliente00316@example.com,DF,Brasília,2025-10-12
+C00317,Cliente 00317,cliente00317@example.com,PE,Recife,2025-04-26
+C00318,Cliente 00318,cliente00318@example.com,RS,Caxias do Sul,2024-12-07
+C00319,Cliente 00319,cliente00319@example.com,RS,Pelotas,2024-04-17
+C00320,Cliente 00320,cliente00320@example.com,MG,Uberlândia,2025-02-25
+C00321,Cliente 00321,cliente00321@example.com,PE,Olinda,2025-11-09
+C00322,Cliente 00322,cliente00322@example.com,BA,Salvador,2025-04-10
+C00323,Cliente 00323,cliente00323@example.com,RJ,Niterói,2024-09-15
+C00324,Cliente 00324,cliente00324@example.com,RS,Porto Alegre,2025-02-17
+C00325,Cliente 00325,cliente00325@example.com,GO,Goiânia,2025-11-04
+C00326,Cliente 00326,cliente00326@example.com,GO,Anápolis,2025-02-27
+C00327,Cliente 00327,cliente00327@example.com,SP,Campinas,2025-06-14
+C00328,Cliente 00328,cliente00328@example.com,RS,Pelotas,2025-05-25
+C00329,Cliente 00329,cliente00329@example.com,PE,Recife,2024-07-27
+C00330,Cliente 00330,cliente00330@example.com,SC,Blumenau,2024-05-14
+C00331,Cliente 00331,cliente00331@example.com,SC,Joinville,2025-05-11
+C00332,Cliente 00332,cliente00332@example.com,RJ,Rio de Janeiro,2025-10-07
+C00333,Cliente 00333,cliente00333@example.com,DF,Brasília,2024-06-11
+C00334,Cliente 00334,cliente00334@example.com,SC,Blumenau,2024-01-15
+C00335,Cliente 00335,cliente00335@example.com,GO,Anápolis,2024-04-05
+C00336,Cliente 00336,cliente00336@example.com,PR,Curitiba,2025-04-17
+C00337,Cliente 00337,cliente00337@example.com,RJ,Petrópolis,2024-06-06
+C00338,Cliente 00338,cliente00338@example.com,PE,Olinda,2025-06-05
+C00339,Cliente 00339,cliente00339@example.com,SC,Joinville,2025-05-09
+C00340,Cliente 00340,cliente00340@example.com,PE,Recife,2025-04-12
+C00341,Cliente 00341,cliente00341@example.com,GO,Goiânia,2025-01-27
+C00342,Cliente 00342,cliente00342@example.com,PR,Maringá,2025-06-04
+C00343,Cliente 00343,cliente00343@example.com,MG,Belo Horizonte,2024-10-09
+C00344,Cliente 00344,cliente00344@example.com,BA,Feira de Santana,2025-06-03
+C00345,Cliente 00345,cliente00345@example.com,SC,Florianópolis,2024-10-16
+C00346,Cliente 00346,cliente00346@example.com,SC,Blumenau,2025-08-16
+C00347,Cliente 00347,cliente00347@example.com,PE,Recife,2025-04-02
+C00348,Cliente 00348,cliente00348@example.com,GO,Anápolis,2024-12-19
+C00349,Cliente 00349,cliente00349@example.com,RS,Pelotas,2025-07-10
+C00350,Cliente 00350,cliente00350@example.com,BA,Feira de Santana,2024-11-25
+C00351,Cliente 00351,cliente00351@example.com,PR,Maringá,2024-09-01
+C00352,Cliente 00352,cliente00352@example.com,DF,Brasília,2024-08-27
+C00353,Cliente 00353,cliente00353@example.com,BA,Salvador,2024-11-21
+C00354,Cliente 00354,cliente00354@example.com,PE,Olinda,2025-01-30
+C00355,Cliente 00355,cliente00355@example.com,MG,Uberlândia,2024-02-07
+C00356,Cliente 00356,cliente00356@example.com,MG,Juiz de Fora,2025-08-27
+C00357,Cliente 00357,cliente00357@example.com,RS,Porto Alegre,2025-03-26
+C00358,Cliente 00358,cliente00358@example.com,RJ,Petrópolis,2025-04-12
+C00359,Cliente 00359,cliente00359@example.com,SP,Campinas,2025-02-23
+C00360,Cliente 00360,cliente00360@example.com,MG,Belo Horizonte,2025-04-25
+C00361,Cliente 00361,cliente00361@example.com,SC,Joinville,2025-09-30
+C00362,Cliente 00362,cliente00362@example.com,BA,Salvador,2024-12-02
+C00363,Cliente 00363,cliente00363@example.com,GO,Anápolis,2024-11-20
+C00364,Cliente 00364,cliente00364@example.com,PE,Recife,2025-09-24
+C00365,Cliente 00365,cliente00365@example.com,RJ,Rio de Janeiro,2025-10-08
+C00366,Cliente 00366,cliente00366@example.com,SC,Florianópolis,2024-04-02
+C00367,Cliente 00367,cliente00367@example.com,BA,Salvador,2025-10-10
+C00368,Cliente 00368,cliente00368@example.com,RJ,Niterói,2024-06-19
+C00369,Cliente 00369,cliente00369@example.com,SC,Florianópolis,2024-02-17
+C00370,Cliente 00370,cliente00370@example.com,RS,Porto Alegre,2024-10-27
+C00371,Cliente 00371,cliente00371@example.com,RS,Caxias do Sul,2025-03-17
+C00372,Cliente 00372,cliente00372@example.com,MG,Belo Horizonte,2025-06-27
+C00373,Cliente 00373,cliente00373@example.com,BA,Salvador,2024-06-23
+C00374,Cliente 00374,cliente00374@example.com,MG,Belo Horizonte,2025-09-16
+C00375,Cliente 00375,cliente00375@example.com,BA,Salvador,2025-05-24
+C00376,Cliente 00376,cliente00376@example.com,DF,Brasília,2024-08-25
+C00377,Cliente 00377,cliente00377@example.com,PE,Olinda,2025-04-15
+C00378,Cliente 00378,cliente00378@example.com,SC,Blumenau,2024-01-10
+C00379,Cliente 00379,cliente00379@example.com,PE,Olinda,2025-11-24
+C00380,Cliente 00380,cliente00380@example.com,GO,Goiânia,2024-03-16
+C00381,Cliente 00381,cliente00381@example.com,PE,Olinda,2025-08-24
+C00382,Cliente 00382,cliente00382@example.com,SC,Blumenau,2025-03-10
+C00383,Cliente 00383,cliente00383@example.com,SC,Joinville,2024-11-05
+C00384,Cliente 00384,cliente00384@example.com,PR,Londrina,2025-05-09
+C00385,Cliente 00385,cliente00385@example.com,RJ,Rio de Janeiro,2025-01-25
+C00386,Cliente 00386,cliente00386@example.com,DF,Brasília,2025-08-11
+C00387,Cliente 00387,cliente00387@example.com,SC,Blumenau,2024-10-29
+C00388,Cliente 00388,cliente00388@example.com,SP,Sorocaba,2024-10-08
+C00389,Cliente 00389,cliente00389@example.com,SP,São Paulo,2025-09-12
+C00390,Cliente 00390,cliente00390@example.com,PE,Olinda,2024-08-23
+C00391,Cliente 00391,cliente00391@example.com,DF,Brasília,2024-08-12
+C00392,Cliente 00392,cliente00392@example.com,PR,Maringá,2024-09-13
+C00393,Cliente 00393,cliente00393@example.com,MG,Juiz de Fora,2024-04-09
+C00394,Cliente 00394,cliente00394@example.com,SP,Santos,2025-03-27
+C00395,Cliente 00395,cliente00395@example.com,SP,Santos,2024-05-14
+C00396,Cliente 00396,cliente00396@example.com,RJ,Niterói,2024-11-30
+C00397,Cliente 00397,cliente00397@example.com,BA,Salvador,2024-07-24
+C00398,Cliente 00398,cliente00398@example.com,MG,Juiz de Fora,2025-01-09
+C00399,Cliente 00399,cliente00399@example.com,GO,Anápolis,2024-06-17
+C00400,Cliente 00400,cliente00400@example.com,SC,Joinville,2024-10-29
+C00401,Cliente 00401,cliente00401@example.com,RS,Porto Alegre,2025-04-24
+C00402,Cliente 00402,cliente00402@example.com,RJ,Rio de Janeiro,2024-08-19
+C00403,Cliente 00403,cliente00403@example.com,BA,Feira de Santana,2024-04-02
+C00404,Cliente 00404,cliente00404@example.com,BA,Salvador,2024-09-27
+C00405,Cliente 00405,cliente00405@example.com,GO,Goiânia,2025-04-10
+C00406,Cliente 00406,cliente00406@example.com,RS,Pelotas,2025-11-19
+C00407,Cliente 00407,cliente00407@example.com,SC,Blumenau,2025-01-25
+C00408,Cliente 00408,cliente00408@example.com,RS,Porto Alegre,2025-11-22
+C00409,Cliente 00409,cliente00409@example.com,PR,Londrina,2024-01-26
+C00410,Cliente 00410,cliente00410@example.com,DF,Brasília,2025-09-16
+C00411,Cliente 00411,cliente00411@example.com,PR,Maringá,2024-03-05
+C00412,Cliente 00412,cliente00412@example.com,PE,Olinda,2025-10-26
+C00413,Cliente 00413,cliente00413@example.com,BA,Salvador,2024-05-23
+C00414,Cliente 00414,cliente00414@example.com,SP,São Paulo,2024-11-07
+C00415,Cliente 00415,cliente00415@example.com,PE,Recife,2024-04-09
+C00416,Cliente 00416,cliente00416@example.com,PR,Maringá,2024-05-18
+C00417,Cliente 00417,cliente00417@example.com,BA,Feira de Santana,2025-01-14
+C00418,Cliente 00418,cliente00418@example.com,GO,Anápolis,2025-08-24
+C00419,Cliente 00419,cliente00419@example.com,MG,Uberlândia,2025-11-01
+C00420,Cliente 00420,cliente00420@example.com,RJ,Niterói,2025-09-22
+C00421,Cliente 00421,cliente00421@example.com,BA,Feira de Santana,2024-02-03
+C00422,Cliente 00422,cliente00422@example.com,RS,Porto Alegre,2025-03-30
+C00423,Cliente 00423,cliente00423@example.com,PE,Recife,2025-01-06
+C00424,Cliente 00424,cliente00424@example.com,RJ,Petrópolis,2025-01-11
+C00425,Cliente 00425,cliente00425@example.com,GO,Anápolis,2024-03-03
+C00426,Cliente 00426,cliente00426@example.com,BA,Feira de Santana,2024-07-13
+C00427,Cliente 00427,cliente00427@example.com,RJ,Niterói,2024-04-03
+C00428,Cliente 00428,cliente00428@example.com,PR,Maringá,2025-10-16
+C00429,Cliente 00429,cliente00429@example.com,DF,Brasília,2024-02-21
+C00430,Cliente 00430,cliente00430@example.com,RS,Porto Alegre,2024-05-08
+C00431,Cliente 00431,cliente00431@example.com,DF,Brasília,2024-03-11
+C00432,Cliente 00432,cliente00432@example.com,GO,Goiânia,2025-08-23
+C00433,Cliente 00433,cliente00433@example.com,PR,Curitiba,2024-12-02
+C00434,Cliente 00434,cliente00434@example.com,MG,Juiz de Fora,2024-01-03
+C00435,Cliente 00435,cliente00435@example.com,SC,Florianópolis,2024-05-13
+C00436,Cliente 00436,cliente00436@example.com,GO,Anápolis,2024-06-27
+C00437,Cliente 00437,cliente00437@example.com,RJ,Petrópolis,2024-01-27
+C00438,Cliente 00438,cliente00438@example.com,MG,Belo Horizonte,2025-01-01
+C00439,Cliente 00439,cliente00439@example.com,PR,Maringá,2024-11-27
+C00440,Cliente 00440,cliente00440@example.com,SP,Campinas,2024-09-28
+C00441,Cliente 00441,cliente00441@example.com,SP,Campinas,2025-03-07
+C00442,Cliente 00442,cliente00442@example.com,GO,Goiânia,2024-03-06
+C00443,Cliente 00443,cliente00443@example.com,PE,Olinda,2025-01-05
+C00444,Cliente 00444,cliente00444@example.com,GO,Goiânia,2025-04-07
+C00445,Cliente 00445,cliente00445@example.com,GO,Goiânia,2025-09-21
+C00446,Cliente 00446,cliente00446@example.com,SP,Santos,2025-04-14
+C00447,Cliente 00447,cliente00447@example.com,SP,São Paulo,2025-05-05
+C00448,Cliente 00448,cliente00448@example.com,BA,Feira de Santana,2024-04-20
+C00449,Cliente 00449,cliente00449@example.com,PE,Olinda,2024-03-16
+C00450,Cliente 00450,cliente00450@example.com,RJ,Niterói,2025-09-14
+C00451,Cliente 00451,cliente00451@example.com,MG,Belo Horizonte,2024-05-09
+C00452,Cliente 00452,cliente00452@example.com,SC,Blumenau,2025-10-10
+C00453,Cliente 00453,cliente00453@example.com,DF,Brasília,2025-01-25
+C00454,Cliente 00454,cliente00454@example.com,DF,Brasília,2025-04-09
+C00455,Cliente 00455,cliente00455@example.com,GO,Anápolis,2024-04-11
+C00456,Cliente 00456,cliente00456@example.com,RJ,Petrópolis,2025-10-28
+C00457,Cliente 00457,cliente00457@example.com,GO,Goiânia,2025-03-16
+C00458,Cliente 00458,cliente00458@example.com,PE,Recife,2025-02-27
+C00459,Cliente 00459,cliente00459@example.com,RS,Caxias do Sul,2025-02-12
+C00460,Cliente 00460,cliente00460@example.com,BA,Salvador,2024-11-16
+C00461,Cliente 00461,cliente00461@example.com,BA,Feira de Santana,2025-11-12
+C00462,Cliente 00462,cliente00462@example.com,SC,Joinville,2024-06-05
+C00463,Cliente 00463,cliente00463@example.com,PE,Recife,2024-04-03
+C00464,Cliente 00464,cliente00464@example.com,RJ,Rio de Janeiro,2025-03-18
+C00465,Cliente 00465,cliente00465@example.com,RJ,Petrópolis,2025-01-16
+C00466,Cliente 00466,cliente00466@example.com,MG,Juiz de Fora,2024-03-02
+C00467,Cliente 00467,cliente00467@example.com,DF,Brasília,2025-11-17
+C00468,Cliente 00468,cliente00468@example.com,RJ,Niterói,2024-12-28
+C00469,Cliente 00469,cliente00469@example.com,BA,Salvador,2024-10-21
+C00470,Cliente 00470,cliente00470@example.com,DF,Brasília,2024-12-26
+C00471,Cliente 00471,cliente00471@example.com,RJ,Petrópolis,2025-06-03
+C00472,Cliente 00472,cliente00472@example.com,PR,Curitiba,2025-11-03
+C00473,Cliente 00473,cliente00473@example.com,PE,Recife,2024-04-20
+C00474,Cliente 00474,cliente00474@example.com,RS,Pelotas,2025-01-11
+C00475,Cliente 00475,cliente00475@example.com,RJ,Niterói,2025-08-10
+C00476,Cliente 00476,cliente00476@example.com,PR,Londrina,2025-07-28
+C00477,Cliente 00477,cliente00477@example.com,DF,Brasília,2025-09-15
+C00478,Cliente 00478,cliente00478@example.com,SC,Florianópolis,2024-07-03
+C00479,Cliente 00479,cliente00479@example.com,SC,Blumenau,2024-11-12
+C00480,Cliente 00480,cliente00480@example.com,RS,Caxias do Sul,2024-01-07
+C00481,Cliente 00481,cliente00481@example.com,MG,Belo Horizonte,2025-08-02
+C00482,Cliente 00482,cliente00482@example.com,BA,Salvador,2024-05-25
+C00483,Cliente 00483,cliente00483@example.com,SP,São Paulo,2025-06-27
+C00484,Cliente 00484,cliente00484@example.com,PR,Londrina,2025-03-05
+C00485,Cliente 00485,cliente00485@example.com,PE,Olinda,2024-06-10
+C00486,Cliente 00486,cliente00486@example.com,RS,Caxias do Sul,2024-11-28
+C00487,Cliente 00487,cliente00487@example.com,DF,Brasília,2024-02-23
+C00488,Cliente 00488,cliente00488@example.com,MG,Belo Horizonte,2025-09-24
+C00489,Cliente 00489,cliente00489@example.com,SP,São Paulo,2024-10-05
+C00490,Cliente 00490,cliente00490@example.com,PE,Olinda,2025-05-12
+C00491,Cliente 00491,cliente00491@example.com,DF,Brasília,2025-02-28
+C00492,Cliente 00492,cliente00492@example.com,SC,Florianópolis,2025-06-08
+C00493,Cliente 00493,cliente00493@example.com,RJ,Niterói,2025-03-16
+C00494,Cliente 00494,cliente00494@example.com,RJ,Niterói,2025-11-25
+C00495,Cliente 00495,cliente00495@example.com,DF,Brasília,2025-06-23
+C00496,Cliente 00496,cliente00496@example.com,SC,Florianópolis,2024-08-13
+C00497,Cliente 00497,cliente00497@example.com,BA,Salvador,2024-01-08
+C00498,Cliente 00498,cliente00498@example.com,PR,Londrina,2024-08-04
+C00499,Cliente 00499,cliente00499@example.com,MG,Uberlândia,2024-10-23
+C00500,Cliente 00500,cliente00500@example.com,RS,Porto Alegre,2024-01-08
+C00362,Cliente 00362,cliente00362@example.com,BA,Salvador,2024-12-02
+C00074,Cliente 00074,cliente00074@example.com,SP,Santos,2024-03-13
+C00375,Cliente 00375,cliente00375@example.com,BA,Salvador,2025-05-24
+C00156,Cliente 00156,cliente00156@example.com,RS,Pelotas,2024-11-17
+C00105,Cliente 00105,cliente00105@example.com,DF,Brasília,2025-09-26
+C00395,Cliente 00395,cliente00395@example.com,SP,Santos,2024-05-14
+C00378,Cliente 00378,cliente00378@example.com,SC,Blumenau,2024-01-10
+C00125,Cliente 00125,cliente00125@example.com,PR,Maringá,2025-10-11

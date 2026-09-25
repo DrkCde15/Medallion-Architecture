@@ -1,0 +1,16 @@
+product_id,product_name,category,price,stock
+P0001,Smartphone,Eletrônicos,899.9,68
+P0002,Fone Bluetooth,Eletrônicos,149.9,100
+P0003,Notebook,Eletrônicos,3499.9,60
+P0004,Teclado Mecânico,Informática,-20.0,27
+P0005,Mouse Gamer,Informática,179.9,21
+P0006,Monitor 24,Informática,899.9,53
+P0007,Cafeteira,Casa,399.9,73
+P0008,,Casa,499.9,95
+P0009,Aspirador,Casa,699.9,34
+P0010,Tênis Esportivo,Esportes,349.9,69
+P0011,Mochila,Esportes,199.9,76
+P0012,Relógio Fitness,Esportes,299.9,90
+P0013,Livro de Python,Livros,89.9,50
+P0014,Livro de SQL,Livros,99.9,14
+P0015,Livro de Data Engineering,Livros,149.9,55
